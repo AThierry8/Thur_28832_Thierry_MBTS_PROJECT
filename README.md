@@ -40,7 +40,7 @@ The traditional bus ticketing process requires passengers to physically visit st
 
 ###  Database
 - [Database Documentation](database/documentation/)
-- [All Scripts](scripts/)
+- [All Scripts](database/scripts/)
 - [All Queries](queries/)
 
 ###  Screenshots
