@@ -28,8 +28,46 @@ The traditional bus ticketing process requires passengers to physically visit st
 - SQL*Plus and SQL Developer
 - Basic understanding of SQL and PL/SQL
 
-### link to documentation
-###  Database Scripts
-- [Table Creation Scripts](./database/scripts/) - SQL scripts for database schema
-- [Procedures & Functions](./database/scripts/) - PL/SQL implementation code
-- [Sample Queries](./queries/) - Useful SQL queries for the system`
+
+## Links to Documentation
+
+###  Project Documentation
+- [Project Proposal](./project%20proposal.docx) - Original project proposal document
+- [Project Documentation](./project%20documentation%20complete.docx) - Complete system documentation
+- [Project Report](./project%20report.docx) - Final project report
+- [BPMN Diagram](./BPMN%20for%20(MBTS)%20project.png) - Business Process Model and Notation diagram
+
+###  Database Implementation
+- [Database Scripts](./scripts/) - All SQL and PL/SQL scripts
+  - [Tables Creation](./scripts/creating%20tables.sql)
+  - [Sequences](./scripts/sequences.sql)
+  - [Procedures](./scripts/procedure.sql)
+  - [Functions](./scripts/function.sql)
+  - [Triggers](./scripts/trigger.sql)
+  - [Sample Data](./scripts/sample%20data.sql)
+- [Sample Queries](./queries/) - Useful SQL queries for the system
+
+###  Implementation Screenshots & Proofs
+#### Database Creation
+- [Creating Screenshots](./screen%20shots/creating%20screenshots/) - Database object creation
+- [Table Structures](./screen%20shots/creating%20screenshots/) - Table creation proofs
+
+#### PL/SQL Components
+- [Procedure Screenshots](./screen%20shots/procedure%20screenshots/) - Stored procedure execution
+- [Function Screenshots](./screen%20shots/function%20screenshots/) - Function implementation
+- [Trigger Screenshots](./screen%20shots/Trigger%20screen%20shots/) - Database triggers
+
+#### Testing & Validation
+- [Test & Validation](./screen%20shots/test%20and%20validation/) - System testing proofs
+- [Audit Test Screenshots](./screen%20shots/audit%20test%20screenshots/) - Audit functionality tests
+- [Retrieval Operations](./screen%20shots/retrievial/) - Data query execution
+
+#### Advanced Features
+- [Analytical Screenshots](./screen%20shots/analytical%20screenshots/) - Analytical functions
+- [Windows Functions](./screen%20shots/windows%20functions/) - Window function implementations
+- [Execution Proofs](./screen%20shots/Execution%20proof%20screenshots/) - Code execution results
+
+###  Code Implementation
+- [Main Scripts Folder](./scripts/) - Complete implementation code
+- [Query Examples](./queries/) - Ready-to-use SQL queries
+- [Test Cases](./screen%20shots/test%20and%20validation/) - Validation scenarios
