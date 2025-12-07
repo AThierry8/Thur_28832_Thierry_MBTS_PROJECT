@@ -29,4 +29,7 @@ The traditional bus ticketing process requires passengers to physically visit st
 - Basic understanding of SQL and PL/SQL
 
 ### link to documentation
-- `./database/documentation/Architecture.md`
+###  Database Scripts
+- [Table Creation Scripts](./database/scripts/) - SQL scripts for database schema
+- [Procedures & Functions](./database/scripts/) - PL/SQL implementation code
+- [Sample Queries](./queries/) - Useful SQL queries for the system`
