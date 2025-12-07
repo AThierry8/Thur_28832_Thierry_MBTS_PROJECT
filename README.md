@@ -34,9 +34,9 @@ The traditional bus ticketing process requires passengers to physically visit st
 ## Links to Documentation
 
 ###  Main Documents
-- [Project Proposal](project%20proposal.docx)
-- [Project Documentation](project%20documentation%20complete.docx)
-- [Project Report](project%20report.docx)
+- [user creation and table space](/database/scripts/02_creating%20a%20user%20and%20table%20space.sql)
+- [Design decision](/database/documentation/design_decision.md)
+- [Data Dictionary](/database/documentation/data_dictionary.md)
 - [ER Diagram](database/documentation/MBTS%20ER%20diagram.png)
 - [BPMN image](database/documentation/BPMN%20for%20(MBTS)%20project.png)
 
