@@ -47,4 +47,4 @@ The traditional bus ticketing process requires passengers to physically visit st
 
 ###  Screenshots
 - [All Implementation Proofs](screen%20shots/)
-- [audit log checking](screenshots/audit%20test%20screenshots/audit%20log%20table%20checking.png)
+- [audit log checking](screen%20shots/audit%20test%20screenshots/audit%20log%20table%20checking.png)
