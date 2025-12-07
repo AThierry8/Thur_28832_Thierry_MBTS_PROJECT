@@ -96,4 +96,5 @@ JOIN route r ON s.route_id = r.route_id
 WHERE s.departure_date BETWEEN SYSDATE - 30 AND SYSDATE + 30
 GROUP BY d.driver_id, d.driver_name, TRUNC(s.departure_date), s.schedule_id, 
          s.available_seats, b.capacity, s.departure_date, r.departure_location, r.destination
+
 ORDER BY d.driver_id, schedule_date;
