@@ -31,33 +31,17 @@ The traditional bus ticketing process requires passengers to physically visit st
 
 ## Links to Documentation
 
+## Links to Documentation
 
-###  Project Documentation
-- [Project Proposal](project%20proposal.docx) - Original project proposal document
-- [Project Documentation](project%20documentation%20complete.docx) - Complete system documentation
-- [Project Report](project%20report.docx) - Final project report
-- [BPMN Diagram](BPMN%20for%20(MBTS)%20project.png) - Business Process Model and Notation diagram
+###  Main Documents
+- [Project Proposal](project%20proposal.docx)
+- [Project Documentation](project%20documentation%20complete.docx)
+- [Project Report](project%20report.docx)
 
-###  Database Implementation
-- [Database Scripts](scripts/) - All SQL and PL/SQL scripts
-- [Sample Queries](queries/) - Useful SQL queries for the system
+###  Database
+- [Database Documentation](database/documentation/)
+- [All Scripts](scripts/)
+- [All Queries](queries/)
 
-### 📸 Implementation Screenshots & Proofs
-#### Database Creation
-- [Creating Screenshots](screen%20shots/creating%20screenshots/) - Database object creation
-- [Table Structures](screen%20shots/creating%20screenshots/) - Table creation proofs
-
-#### PL/SQL Components
-- [Procedure Screenshots](screen%20shots/procedure%20screenshots/) - Stored procedure execution
-- [Function Screenshots](screen%20shots/function%20screenshots/) - Function implementation
-- [Trigger Screenshots](screen%20shots/Trigger%20screen%20shots/) - Database triggers
-
-#### Testing & Validation
-- [Test & Validation](screen%20shots/test%20and%20validation/) - System testing proofs
-- [Audit Test Screenshots](screen%20shots/audit%20test%20screenshots/) - Audit functionality tests
-- [Retrieval Operations](screen%20shots/retrievial/) - Data query execution
-
-#### Advanced Features
-- [Analytical Screenshots](screen%20shots/analytical%20screenshots/) - Analytical functions
-- [Windows Functions](screen%20shots/windows%20functions/) - Window function implementations
-- [Execution Proofs](screen%20shots/Execution%20proof%20screenshots/) - Code execution results
+###  Screenshots
+- [All Implementation Proofs](screen%20shots/)
